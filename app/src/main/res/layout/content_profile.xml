@@ -87,7 +87,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="@dimen/activity_horizontal_margin"
                 android:layout_toEndOf="@id/ivContactItem2"
-                android:text="(321) 654-0987"
+                android:text="(321) 654-7890"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="#212121" />
 
@@ -143,7 +143,7 @@
                 android:layout_toStartOf="@+id/chkState3"
                 android:ellipsize="end"
                 android:maxLines="1"
-                android:text="chintan@letsnurture.com"
+                android:text="material@profile.com"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="#212121" />
 
@@ -198,7 +198,7 @@
                 android:layout_toStartOf="@+id/chkState4"
                 android:ellipsize="end"
                 android:maxLines="1"
-                android:text="pratik@letsnurture.com"
+                android:text="examplemail@domain.com"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="#212121" />
 
@@ -253,7 +253,7 @@
                 android:layout_toStartOf="@+id/chkState5"
                 android:ellipsize="end"
                 android:maxLines="1"
-                android:text="202 Park Street, Los Angeles"
+                android:text="987 Place Ave., New York"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="#212121" />
 
@@ -308,7 +308,7 @@
                 android:layout_toStartOf="@+id/chkState6"
                 android:ellipsize="end"
                 android:maxLines="1"
-                android:text="221B Baker Street, England"
+                android:text="123C Toronto Street, Ontario"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textColor="#212121" />
 
@@ -349,27 +349,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Send SMS" />
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/activity_horizontal_margin"
-                android:layout_marginTop="@dimen/activity_horizontal_margin"
-                android:text="Call" />
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/activity_horizontal_margin"
-                android:layout_marginTop="@dimen/activity_horizontal_margin"
-                android:text="Email" />
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/activity_horizontal_margin"
-                android:layout_marginTop="@dimen/activity_horizontal_margin"
-                android:text="Remove Contact" />
 
         </LinearLayout>
     </LinearLayout>
